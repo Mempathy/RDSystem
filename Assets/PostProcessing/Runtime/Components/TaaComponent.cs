@@ -95,7 +95,7 @@ namespace UnityEngine.PostProcessing
                 m_HistoryTexture = RenderTexture.GetTemporary(source.width, source.height, 0, source.format);
                 m_HistoryTexture.name = "TAA History";
 
-                Graphics.Blit(source, m_HistoryTexture, material, 2);
+                Graphics.Blit(source, m_HistoryTexture, material);
             }
 
             const float kMotionAmplification = 100f * 60f;

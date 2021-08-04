@@ -1,0 +1,44 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PostProcessing/Editor Resources/Monitors/HistogramCompute.compute">
+    <Files>
+      <File FileName="Assets/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs" Line="2" Column="3" />
+      <File FileName="Assets/PostProcessing/Runtime/Components/TaaComponent.cs" Line="98" Column="65" />
+      <File FileName="Assets/RDSystem/Initialization.shader" Line="1" Column="1" />
+      <File FileName="Assets/PostProcessing/Editor Resources/Monitors/HistogramRender.shader" Line="1" Column="1" />
+      <File FileName="Assets/PostProcessing/Editor Resources/UI/CurveBackground.shader" Line="1" Column="1" />
+      <File FileName="Assets/PostProcessing/Editor Resources/Monitors/VectorscopeRender.shader" Line="1" Column="1" />
+      <File FileName="Assets/PostProcessing/Editor Resources/Monitors/HistogramCompute.compute" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RDSystem" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="PostProcessing" expanded="True">
+                  <Node name="Editor Resources" expanded="True">
+                    <Node name="Monitors" expanded="True">
+                      <Node name="HistogramCompute.compute" selected="True" />
+                    </Node>
+                    <Node name="UI" expanded="True" />
+                  </Node>
+                  <Node name="Runtime" expanded="True">
+                    <Node name="Components" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="RDSystem" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d3230dae-7f3f-4a6c-8960-5de00d0bf2b1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
